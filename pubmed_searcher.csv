@@ -1,0 +1,51 @@
+,ID,Title,DOI,find my code|mentions,link to my code|mentions,is my code|mentions
+0,33540076,A tongue features fusion approach to predicting prediabetes and diabetes with machine learning.,10.1016/j.jbi.2021.103693,0,0,0
+1,33539308,Using Automated Machine Learning to Predict the Mortality of Patients With COVID-19: Prediction Model Development Study.,10.2196/23458,0,0,0
+2,33539291,Predicting Machine Learning Pipeline Runtimes in the Context of Automated Machine Learning.,10.1109/TPAMI.2021.3056950,0,0,0
+3,33539249,Predicting postoperative liver cancer death outcomes with machine learning.,10.1080/03007995.2021.1885361,0,0,0
+4,33538696,Machine Learning-Based Early Warning Systems for Clinical Deterioration: Systematic Scoping Review.,10.2196/25187,0,0,0
+5,33538601,Physically Compatible Machine Learning Study on the Pt-Ni Nanoclusters.,10.1021/acs.jpclett.0c03600,0,0,0
+6,33538294,Machine learning application for patient stratification and phenotype/genotype investigation in a rare disease.,10.1093/bib/bbaa434,0,0,0
+7,33538187,Machine learning algorithms to predict seizure due to acute tramadol poisoning.,10.1177/0960327121991910,0,0,0
+8,33538134,Machine-Learning-Based Approach to Differential Diagnosis in Tuberculous and Viral Meningitis.,10.3947/ic.2020.0104,0,0,0
+9,33537313,Identification of Genome Sequences of Polyphosphate-Accumulating Organisms by Machine Learning.,10.3389/fcell.2020.626221,0,0,0
+10,33537275,A Machine Learning Approach to Uncovering Hidden Utilization Patterns of Early Childhood Dental Care Among Medicaid-Insured Children.,10.3389/fpubh.2020.599187,0,0,0
+11,33537063,Integrating Somatic Mutations for Breast Cancer Survival Prediction Using Machine Learning Methods.,10.3389/fgene.2020.632901,0,0,0
+12,33536642,Machine learning made easy for optimizing chemical reactions.,10.1038/d41586-021-00209-6,0,0,0
+13,33536499,Differentiation of recurrent glioblastoma from radiation necrosis using diffusion radiomics with machine learning model development and external validation.,10.1038/s41598-021-82467-y,0,0,0
+14,33536460,Risk factors analysis of COVID-19 patients with ARDS and prediction based on machine learning.,10.1038/s41598-021-82492-x,0,0,0
+15,33536291,Applications of Machine Learning to the Problem of Antimicrobial Resistance: an Emerging Model for Translational Research.,10.1128/JCM.01260-20,0,0,0
+16,33535988,Differentiation of Pseudoprogression from True Progressionin Glioblastoma Patients after Standard Treatment: A Machine Learning Strategy Combinedwith Radiomics Features from T1-weighted Contrast-enhanced Imaging.,10.1186/s12880-020-00545-5,0,0,0
+17,33535688,Predictors of Contemporary under-5 Child Mortality in Low- and Middle-Income Countries: A Machine Learning Approach.,10.3390/ijerph18031315,0,0,0
+18,33535034,Predicting protein condensate formation using machine learning.,10.1016/j.celrep.2021.108705,0,0,0
+19,33534801,Applying machine learning and geolocation techniques to social media data (Twitter) to develop a resource for urban planning.,10.1371/journal.pone.0244317,0,0,0
+20,33534723,Development and Validation of a Machine Learning Approach for Automated Severity Assessment of COVID-19 Based on Clinical and Imaging Data: Retrospective Study.,10.2196/24572,0,0,0
+21,33534531,Predicting Kidney Discard Using Machine Learning.,10.1097/TP.0000000000003620,0,0,0
+22,33534111,Item response theory as a feature selection and interpretation tool in the context of machine learning.,10.1007/s11517-020-02301-x,0,0,0
+23,33534023,Classification models and SAR analysis on CysLT1 receptor antagonists using machine learning algorithms.,10.1007/s11030-020-10165-4,0,0,0
+24,33533273,Survival prediction in glioblastoma on post-contrast magnetic resonance imaging using filtration based first-order texture analysis: Comparison of multiple machine learning models.,10.1177/1971400921990766,0,0,0
+25,33532911,Correction to: Machine learning based on clinico-biological features integrated 18F-FDG PET/CT radiomics for distinguishing squamous cell carcinoma from adenocarcinoma of lung.,10.1007/s00259-021-05226-1,0,0,0
+26,33532727,Prediction of Late-Onset Sepsis in Preterm Infants Using Monitoring Signals and Machine Learning.,10.1097/CCE.0000000000000302,0,0,0
+27,33531699,Machine learning predicts risk in ACS.,10.1038/s41569-021-00521-8,0,0,0
+28,33531410,Harnessing Machine Learning To Unravel Protein Degradation in Escherichia coli.,10.1128/mSystems.01296-20,0,0,0
+29,33531345,Using machine learning to estimate the effect of racial segregation on COVID-19 mortality in the United States.,10.1073/pnas.2015577118,0,0,0
+30,33531261,Identifying clinical clusters with distinct trajectories in first-episode psychosis through an unsupervised machine learning technique.,10.1016/j.euroneuro.2021.01.095,0,0,0
+31,33530727,Using machine learning to predict post-operative depth of focus after cataract surgery with implantation of Tecnis Symfony.,10.1177/1120672121991777,0,0,0
+32,33530326,Towards a Precision Medicine Approach Based on Machine Learning for Tailoring Medical Treatment in Alkaptonuria.,10.3390/ijms22031187,0,0,0
+33,33530302,Machine Learning Enabled Performance Prediction Model for Massive-MIMO HetNet System.,10.3390/s21030800,0,0,0
+34,33530288,Using Different Combinations of Body-Mounted IMU Sensors to Estimate Speed of Horses-A Machine Learning Approach.,10.3390/s21030798,0,0,0
+35,33529873,Extending the usefulness of the verbal memory test: The promise of machine learning.,10.1016/j.psychres.2021.113743,0,0,0
+36,33529293,"Recent advances and future perspectives for automated parameterisation, Bayesian inference and machine learning in voltammetry.",10.1039/d0cc07549c,0,0,0
+37,33528198,Machine Learning to Support Organ Donation After Cardiac Death: Is the Time Now?,10.1097/PCC.0000000000002639,0,0,0
+38,33528037,Voice Analysis with Machine Learning: One Step Closer to an Objective Diagnosis of Essential Tremor.,10.1002/mds.28508,0,0,0
+39,33527826,Volatilomic Profiling of Citrus Juices by Dual-Detection HS-GC-MS-IMS and Machine Learning-An Alternative Authentication Approach.,10.1021/acs.jafc.0c07447,0,0,0
+40,33527773,Application of machine learning methods to pathogen safety evaluation in biological manufacturing processes.,10.1002/btpr.3135,0,0,0
+41,33527198,"Machine learning applied on chest x-ray can aid in the diagnosis of COVID-19: a first experience from Lombardy, Italy.",10.1186/s41747-020-00203-z,0,0,0
+42,33526765,Evidence for similar structural brain anomalies in youth and adult attention-deficit/hyperactivity disorder: a machine learning analysis.,10.1038/s41398-021-01201-4,0,0,0
+43,33526657,A machine learning-based framework for modeling transcription elongation.,10.1073/pnas.2007450118,0,0,0
+44,33525408,InpactorDB: A Classified Lineage-Level Plant LTR Retrotransposon Reference Library for Free-Alignment Methods Based on Machine Learning.,10.3390/genes12020190,0,0,0
+45,33525314,Machine Learning Applications and Optimization of Clustering Methods Improve the Selection of Descriptors in Blackberry Germplasm Banks.,10.3390/plants10020247,0,0,0
+46,33525104,"Machine learning based classification of normal, slow and fast walking by extracting multimodal features from stride interval time series.",10.3934/mbe.2021027,0,0,0
+47,33525081,Machine learning based congestive heart failure detection using feature importance ranking of multimodal features.,10.3934/mbe.2021004,0,0,0
+48,33524039,Machine learning model for predicting severity prognosis in patients infected with COVID-19: Study protocol from COVID-AI Brasil.,10.1371/journal.pone.0245384,0,0,0
+49,33523353,Detection of arterial pressure waveform error using machine learning trained algorithms.,10.1007/s10877-020-00642-4,0,0,0
